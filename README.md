@@ -28,6 +28,7 @@ Todavía no tengo proyectos publicados — ¡pronto voy a subir acá lo que vaya
 ## 📫 Contacto
 
 - Email: danielcontreras1906c@gmail.com
+- Email: darosalesco@est.utn.ac.cr
 
 ---
 
