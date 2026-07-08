@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**danielcontreras1906c/danielcontreras1906c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋 Soy Daniel
 
-Here are some ideas to get you started:
+Estudiante de Ingeniería en Tecnologías de la Información en la **UTN**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi meta es convertirme en desarrollador **Full Stack**, dominando tanto el frontend como el backend, bases de datos y desarrollo móvil.
+
+## 🚀 Tecnologías
+
+**Sé:**
+- Java
+- SQL
+
+**Aprendiendo / próximamente:**
+- Python
+- HTML & CSS
+- JavaScript
+- React
+
+## 🎯 Objetivo
+
+Formarme como desarrollador Full Stack completo: frontend, backend, bases de datos y desarrollo móvil.
+
+## 📌 Proyectos
+
+Todavía no tengo proyectos publicados — ¡pronto voy a subir acá lo que vaya construyendo!
+
+## 📫 Contacto
+
+- Email: danielcontreras1906c@gmail.com
+
+---
+
+*Estudiante en constante aprendizaje 💻*
